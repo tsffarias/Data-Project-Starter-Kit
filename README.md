@@ -3,7 +3,12 @@
 ## Sobre o Projeto
 
 Este repositório é uma parte integrante do workshop "Como estruturar um projeto de dados do Zero". O intuito aqui é fornecer uma base e uma estrutura padronizada para iniciar projetos de engenharia, ciência e análise de dados. O foco principal é em boas práticas, automação, testes e documentação.
-Tera um novo no dia 29/01
+
+Projeto: Consolida diversos arquivos Excel em um único arquivo Excel.
+
+![Fluxo](img/fluxo.png)
+
+
 ### Objetivos do Workshop:
 
 * **Entender a estrutura padrão de projetos**: Isso inclui a organização de diretórios, como o código-fonte, testes, documentação, entre outros.
@@ -35,7 +40,7 @@ Tera um novo no dia 29/01
 4. Tutorial de Git e Github básico [Ebook](https://www.linkedin.com/feed/update/urn:li:activity:7093915148351864832/?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7093915148351864832%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29&originTrackingId=4GUdvXH4TK%2BtZtlNHmiqJA%3D%3D).
 5. Se você já é usuário Git, recomendo o vídeo do Akita: [Youtube](https://www.youtube.com/watch?v=6Czd1Yetaac).
 
-* **Pyenv**: É usado para gerenciar versões do Python. [Instruções de instalação do Pyenv aqui](https://github.com/pyenv/pyenv#installation). Vamos usar nesse projeto o Python 3.11.3. Para usuários Windows, é recomendado assistirem esse tutorial [Youtube](https://www.youtube.com/watch?v=TkcqjLu1dgA).
+* **Pyenv**: É usado para gerenciar versões do Python. [Instruções de instalação do Pyenv aqui](https://github.com/pyenv/pyenv#installation). Vamos usar nesse projeto o Python 3.12. Para usuários Windows, é recomendado assistirem esse tutorial [Youtube](https://www.youtube.com/watch?v=TkcqjLu1dgA).
 
 * **Poetry**: Este projeto utiliza Poetry para gerenciamento de dependências. [Instruções de instalação do Poetry aqui](https://python-poetry.org/docs/#installation).Se você é usuário Windows, recomendo assistir esse vídeo: [Youtube](https://www.youtube.com/watch?v=BuepZYn1xT8). Que instala o Python, Poetry e VSCode. Mas um simples comando PIP INSTALL POETRY já resolve.
 
@@ -49,8 +54,8 @@ Sugestão de leituras.
 1. Clone o repositório:
 
 ```bash
-git clone https://github.com/lvgalvao/dataprojectstarterkit.git
-cd dataprojectstarterkit
+git clone https://github.com/tsffarias/Data-Project-Starter-Kit
+cd Data-Project-Starter-Kit
 ```
 
 2. Configure a versão correta do Python com `pyenv`:
@@ -103,4 +108,4 @@ task run
 
 Para dúvidas, sugestões ou feedbacks:
 
-* **Luciano Filho** - [Linkedin](https://www.linkedin.com/in/thiagosilvafarias/)
+* **Thiago Silva** - [Linkedin](https://www.linkedin.com/in/thiagosilvafarias/)

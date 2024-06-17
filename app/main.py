@@ -1,4 +1,4 @@
-"""pipeline principal do projeto Pandas."""
+"""pipeline principal do projeto."""
 
 from pipeline import pipeline_completa
 
